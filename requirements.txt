@@ -1,0 +1,14 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+langchain-openai
+openai
+
+python-dotenv
+
+# Machine Learning Utilities
+langchain-huggingface
+transformers
+huggingface-hub
